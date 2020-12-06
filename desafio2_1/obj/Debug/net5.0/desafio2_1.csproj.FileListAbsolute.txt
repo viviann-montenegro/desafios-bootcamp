@@ -1,0 +1,16 @@
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.exe
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.deps.json
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.runtimeconfig.dev.json
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.dll
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\ref\desafio2_1.dll
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\bin\Debug\net5.0\desafio2_1.pdb
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.csprojAssemblyReference.cache
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.dll
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\ref\desafio2_1.dll
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.pdb
+C:\Users\vivia\OneDrive\Documentos\Repositórios\desafios-bootcamp\desafio2_1\obj\Debug\net5.0\desafio2_1.genruntimeconfig.cache
