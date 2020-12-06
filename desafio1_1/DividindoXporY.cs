@@ -2,7 +2,7 @@
 
 namespace desafio1_1
 {
-    class Program
+    class DividindoXporY
     {
         static void Main(string[] args)
         {
